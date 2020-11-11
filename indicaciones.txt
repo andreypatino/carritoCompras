@@ -1,0 +1,7 @@
+Buen dia
+
+Envio el sql para crear las bases de datos prueba.sql
+
+Es necesario cambiar las credeciales para el acceso a base de datos que se encuentra en la carpeta php_class/Db.php
+
+Gracias
